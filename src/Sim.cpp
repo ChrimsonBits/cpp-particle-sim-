@@ -1,7 +1,7 @@
 // Copyright (c) 2026 Aschwyn
 // Licensed under the MIT License. See LICENSE file in the project root.
 
-#include "particle_sim/Sim.hpp"
+#include "particle_sim.hpp"
 #include <cmath>
 #include <algorithm>
 
