@@ -3,7 +3,7 @@
 
 #include <SFML/Graphics.hpp>
 #include <optional>
-#include "particle_sim/Sim.hpp"
+#include "particle_sim.hpp"
 
 int main() {
     constexpr unsigned WIN_W = 1280;
